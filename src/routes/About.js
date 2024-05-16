@@ -10,6 +10,7 @@ const About = () => {
       <Navbar/>
       <HeroImg2 heading="PROJECTS." text="Some of my recent works:" />
       <AboutContent/>
+    
       <Footer/>
     </div>
   )
